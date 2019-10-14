@@ -1,4 +1,3 @@
 # hello-world
-guides
 
-Hi Humans!
+Hi Robots!
